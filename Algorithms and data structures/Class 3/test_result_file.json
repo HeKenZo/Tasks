@@ -1,0 +1,9 @@
+{
+    "file1.json": {
+        "key1": "TBT:value1",
+        "key3": "TBT:value3"
+    },
+    "file2.json": {
+        "key5": "TBT:value5"
+    }
+}

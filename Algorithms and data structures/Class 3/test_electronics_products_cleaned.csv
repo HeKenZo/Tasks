@@ -1,0 +1,4 @@
+id,name,category,price,currency,stock,description,manufacturer,warranty,extra_field
+1,Product 1,Appliances,320.46,USD,51,Description of product 1,CamTech,2 years,
+2,Product 2,Wearables,808.81,USD,127,Description of product 2,BrightLife,1 year,Extra value 2
+3,Product 3,Cleaning,467.24,USD,122,Description of product 3,TabTech,2 years,Extra value 3

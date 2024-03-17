@@ -1,0 +1,58 @@
+{
+    "discounts.json": {
+        "discount-help": "TBT:Discount Help",
+        "discount-search": "TBT:Discount Search",
+        "discount-new": "TBT:Discount New",
+        "discount-calendar": "TBT:Discount Calendar"
+    },
+    "home.json": {
+        "home-help": "TBT:Home Help",
+        "home-logout": "TBT:Home Logout",
+        "home-search": "TBT:Home Search",
+        "home-new": "TBT:Home New"
+    },
+    "invoice-settings.json": {
+        "invoice-format": "TBT:Invoice Format",
+        "invoice-design": "TBT:Invoice Design",
+        "invoice-logo": "TBT:Invoice Logo"
+    },
+    "invoices.json": {
+        "invoice-help": "TBT:Invoice Help",
+        "invoice-search": "TBT:Invoice Search",
+        "invoice-new": "TBT:Invoice New",
+        "invoice-calendar": "TBT:Invoice Calendar"
+    },
+    "navigation.json": {
+        "logout": "TBT:Logout",
+        "new": "TBT:New"
+    },
+    "products-settings.json": {
+        "product-format": "TBT:Product Format",
+        "product-help": "TBT:Product Help",
+        "product-search": "TBT:Product Search",
+        "product-new": "TBT:Product New"
+    },
+    "products.json": {
+        "product-help": "TBT:Product Help",
+        "product-search": "TBT:Product Search",
+        "product-new": "TBT:Product New",
+        "product-calendar": "TBT:Product Calendar"
+    },
+    "reports.json": {
+        "report-help": "TBT:Report Help",
+        "report-search": "TBT:Report Search",
+        "report-new": "TBT:Report New",
+        "report-calendar": "TBT:Report Calendar"
+    },
+    "sub-navigation.json": {
+        "sub-logout": "TBT:Sub Logout",
+        "sub-settings": "TBT:Sub Settings",
+        "sub-new": "TBT:Sub New"
+    },
+    "website-settings.json": {
+        "website-help": "TBT:Website Help",
+        "website-search": "TBT:Website Search",
+        "website-new": "TBT:Website New",
+        "website-calendar": "TBT:Website Calendar"
+    }
+}
